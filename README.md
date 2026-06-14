@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">I'm Yagiz, a computer engineer and full-stack software developer 👨‍💻 focused on building robust backend architectures and dynamic web experiences 🚀</div>  
